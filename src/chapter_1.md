@@ -11,10 +11,12 @@ void main() {
 }
 ```
 
-### Exemple Javascript
+### Exemple 2
 
 ```javascript
 function main() {
     console.log("Hello, World!");
 }
+
+main();
 ``` 
