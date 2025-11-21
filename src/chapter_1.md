@@ -10,3 +10,11 @@ void main() {
     IO.println("Hello, World!");
 }
 ```
+
+### Exemple Javascript
+
+```javascript
+function main() {
+    console.log("Hello, World!");
+}
+``` 
